@@ -19,6 +19,12 @@ body {
 }
 }
 
+@media (max-width: 375px) {
+  #app {
+  width: 350px; 
+}
+}
+
 
 
 h2 {

@@ -107,7 +107,7 @@ import TitleComponent from './components/TitleComponent.vue';
             <b class="block mt-4">Career Projects</b>
             <CardComponent class="max-w-md mt-2 mx-0 w-full">  
               <p>Robinsons Supermarket</p>
-              <p>Link: <a class="text-blue-400" href="https://www.robinsonssupermarket.com.ph/">https://www.robinsonssupermarket.com.ph/</a></p> 
+              <p>Link: <a class="text-blue-400" style="overflow-wrap: break-word;" href="https://www.robinsonssupermarket.com.ph/">https://www.robinsonssupermarket.com.ph/</a></p> 
             </CardComponent> 
 
             <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
