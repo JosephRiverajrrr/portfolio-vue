@@ -93,7 +93,7 @@ import TitleComponent from './components/TitleComponent.vue';
             <b class="block mt-4">Personal Projects</b>
             <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
               <p>POS - Orange and Cafe</p>
-              <p>Link: <a class="text-blue-400" href="https://pos-orange-cafe.netlify.app/login">https://pos-orange-cafe.netlify.app/login</a></p>
+              <p>Link: <a class="text-blue-400" target="_blank" href="https://pos-orange-cafe.netlify.app/login">https://pos-orange-cafe.netlify.app/login</a></p>
               <ul>
                 <li><b>email</b>:admin@gmail.com </li>
                 <li><b>password</b>: 457RIa</li>
@@ -101,32 +101,32 @@ import TitleComponent from './components/TitleComponent.vue';
             </CardComponent>  
             <CardComponent class="max-w-md mt-2 mx-0 w-full">  
               <p clas>Budget Plan</p>
-              <p>Link: <a class="text-blue-400" href="https://budgetplan-sheesh.surge.sh/">https://budgetplan-sheesh.surge.sh/</a></p> 
+              <p>Link: <a class="text-blue-400" target="_blank" href="https://budgetplan-sheesh.surge.sh/">https://budgetplan-sheesh.surge.sh/</a></p> 
             </CardComponent> 
 
             <b class="block mt-4">Career Projects</b>
             <CardComponent class="max-w-md mt-2 mx-0 w-full">  
               <p>Robinsons Supermarket</p>
-              <p>Link: <a class="text-blue-400" style="overflow-wrap: break-word;" href="https://www.robinsonssupermarket.com.ph/">https://www.robinsonssupermarket.com.ph/</a></p> 
+              <p>Link: <a class="text-blue-400" style="overflow-wrap: break-word;" target="_blank" href="https://www.robinsonssupermarket.com.ph/">https://www.robinsonssupermarket.com.ph/</a></p> 
             </CardComponent> 
 
             <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
               <p>Bingo Pilipino</p>
-              <p>Link: <a class="text-blue-400" href="http://staging.bingopilipino.com/q9f2kpz7mfjxA3yLwB8nght4">http://staging.bingopilipino.com/</a></p> 
-            </CardComponent> 
-
-            <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
-              <p>Zagana</p>
-              <p>Desktop View: <a class="text-blue-400" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&rlkey=p6kr6vqkqzlodinulta095zo0">zagana.com</a></p> 
-              <p>Mobile View: <a class="text-blue-400" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&rlkey=p6kr6vqkqzlodinulta095zo0">zagana.com</a></p>
-              <p>Back Office: <a class="text-blue-400" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=1&preview=Daily%27s+Back+Office.webm&rlkey=p6kr6vqkqzlodinulta095zo0">admin-dailybyboscoffee.com</a></p>  
+              <p>Link: <a class="text-blue-400" target="_blank" href="http://staging.bingopilipino.com/q9f2kpz7mfjxA3yLwB8nght4">http://staging.bingopilipino.com/</a></p> 
             </CardComponent> 
 
             <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
               <p>Daily by Bo's Coffee</p>
-              <p>Destop View: <a class="text-blue-400" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=2&preview=zagana-desktop.mp4&rlkey=p6kr6vqkqzlodinulta095zo0">zagana.com</a></p>  
-              <p>Mobile View: <a class="text-blue-400" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=2&preview=zagana-mobile.mp4&rlkey=p6kr6vqkqzlodinulta095zo0">zagana.com</a></p>   
-              <p>Back Office: <a class="text-blue-400" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=2&preview=Zagana+_+Admin+-+15+February+2023.mp4&rlkey=p6kr6vqkqzlodinulta095zo0">admin-dailybyboscoffee.com</a></p>  
+              <p>Desktop View: <a class="text-blue-400" target="_blank" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=1&preview=daily-desktop.mp4&rlkey=p6kr6vqkqzlodinulta095zo0">zagana.com</a></p> 
+              <p>Mobile View: <a class="text-blue-400" target="_blank" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=1&preview=daily-mobile.mp4&rlkey=p6kr6vqkqzlodinulta095zo0">zagana.com</a></p>
+              <p>Back Office: <a class="text-blue-400" target="_blank" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=1&preview=Daily%27s+Back+Office.webm&rlkey=p6kr6vqkqzlodinulta095zo0">admin-dailybyboscoffee.com</a></p>  
+            </CardComponent> 
+
+            <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
+              <p>Zagana</p>
+              <p>Destop View: <a class="text-blue-400" target="_blank" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=2&preview=zagana-desktop.mp4&rlkey=p6kr6vqkqzlodinulta095zo0">zagana.com</a></p>  
+              <p>Mobile View: <a class="text-blue-400" target="_blank" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=2&preview=zagana-mobile.mp4&rlkey=p6kr6vqkqzlodinulta095zo0">zagana.com</a></p>   
+              <p>Back Office: <a class="text-blue-400" target="_blank" href="https://www.dropbox.com/scl/fo/iddk7zllvb5n1op4mpvf3/h?dl=0&e=2&preview=Zagana+_+Admin+-+15+February+2023.mp4&rlkey=p6kr6vqkqzlodinulta095zo0">admin-dailybyboscoffee.com</a></p>  
             </CardComponent>  
 
       </div>
@@ -136,8 +136,8 @@ import TitleComponent from './components/TitleComponent.vue';
           View Details
         </button> -->
         <p class="text-3xl mt-4">Let's work together!</p>
-        <p>For more details about my experience and projects, feel free to <a class="text-blue-400" href="https://www.canva.com/design/DAFcZWtXfmc/IZH8xgzs0x7xkRrIc8XAqw/view#1">download or view my resume</a>.</p>
-        <p>or feel free to email me at <a class="text-blue-400" href="sephriverajr@gmail.com">sephriverajr@gmail.com</a>.</p>
+        <p>For more details about my experience and projects, feel free to <a class="text-blue-400" target="_blank" href="https://www.canva.com/design/DAFcZWtXfmc/IZH8xgzs0x7xkRrIc8XAqw/view#1">download or view my resume</a>.</p>
+        <p>or feel free to email me at <a class="text-blue-400" target="_blank" href="sephriverajr@gmail.com">sephriverajr@gmail.com</a>.</p>
       </template>
     </CardComponent> 
   </div>
