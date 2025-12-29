@@ -110,10 +110,10 @@ import TitleComponent from './components/TitleComponent.vue';
               <p>Link: <a class="text-blue-400" style="overflow-wrap: break-word;" target="_blank" href="https://www.robinsonssupermarket.com.ph/">https://www.robinsonssupermarket.com.ph/</a></p> 
             </CardComponent> 
 
-            <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
+            <!-- <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
               <p>Bingo Pilipino</p>
               <p>Link: <a class="text-blue-400" target="_blank" href="http://staging.bingopilipino.com/q9f2kpz7mfjxA3yLwB8nght4">http://staging.bingopilipino.com/</a></p> 
-            </CardComponent> 
+            </CardComponent>  -->
 
             <CardComponent class="max-w-md mt-2 mx-0 w-full"> 
               <p>Daily by Bo's Coffee</p>
