@@ -128,7 +128,7 @@ const project = projects.find(
                         <img 
                         v-for="(img, i) in project.images"
                         :key="i"
-                        :src="'..'+img"
+                        :src="img"
                         :alt="'..'+img"
                     />
               </div>
