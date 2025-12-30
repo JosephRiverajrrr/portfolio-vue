@@ -9,6 +9,5 @@
     </nav> -->
 
     <router-view />
-  </div>
-  0.0.1
+  </div> 
 </template>
