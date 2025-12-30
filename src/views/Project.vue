@@ -14,7 +14,7 @@ const projects = [
             'Generated sales summary reports to track business performance and revenue trends'
         ],
         stack: [
-            '/src/assets/vue.svg',
+            '/images/vue.svg',
             'https://www.gstatic.com/devrel-devsite/prod/ve08add287a6b4bdf8961ab8a1be50bf551be3816cdd70b7cc934114ff3ad5f10/firebase/images/lockup.svg'
         ],
         images: [ 
