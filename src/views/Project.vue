@@ -140,7 +140,7 @@ const project = projects.find(
       <div class=" items-center"> 
              <ul>
                 <li v-for="(item, i) in project.description" :key="i">
-                    - {{ item }}
+                    &#9679;	 {{ item }}
                 </li>
             </ul> 
        
