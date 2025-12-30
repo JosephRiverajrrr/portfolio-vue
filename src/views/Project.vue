@@ -17,8 +17,8 @@ const projects = [
             '/src/assets/vue.svg',
             'https://www.gstatic.com/devrel-devsite/prod/ve08add287a6b4bdf8961ab8a1be50bf551be3816cdd70b7cc934114ff3ad5f10/firebase/images/lockup.svg'
         ],
-        images: [
-            '/src/assets/images/orangeCafe/orangeCafe1.png',
+        images: [ 
+             '/images/orangeCafe/orangeCafe1.png'
         ]
     },
     {   slug: 'budget',
@@ -33,8 +33,8 @@ const projects = [
             'https://www.gstatic.com/devrel-devsite/prod/ve08add287a6b4bdf8961ab8a1be50bf551be3816cdd70b7cc934114ff3ad5f10/firebase/images/lockup.svg',
             'https://img.icons8.com/color/452/material-ui.png'
         ],
-        images: [
-            '/src/assets/images/budget/budget1.png',
+        images: [ 
+           '/images/budget/budget1.png'
         ]
     },
 
@@ -53,8 +53,8 @@ const projects = [
             'https://cdn-icons-png.flaticon.com/512/5968/5968672.png',
             'https://cdn-icons-png.flaticon.com/512/6785/6785635.png'
         ],
-        images: [
-            '/src/assets/images/Robinson/Robinson1.png',
+        images: [ 
+             '/images/Robinson/Robinson1.png'
         ]
     },
 
@@ -72,8 +72,8 @@ const projects = [
             'https://cdn-icons-png.flaticon.com/512/5968/5968672.png',
             'https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s1600/REST%2BAPI.png'
         ],
-        images: [
-            '/src/assets/images/zagana/zagana1.png', 
+        images: [ 
+             '/images/zagana/zagana1.png'
         ]
     },
 
@@ -91,8 +91,9 @@ const projects = [
             'https://cdn-icons-png.flaticon.com/512/5968/5968672.png',
             'https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s1600/REST%2BAPI.png'
         ],
-        images: [
-            '/src/assets/images/dailys/dailys2.png', 
+        images: [ 
+             '/images/dailys/dailys2.png'
+
         ]
     }
  
@@ -129,7 +130,7 @@ const project = projects.find(
                         v-for="(img, i) in project.images"
                         :key="i"
                         :src="img"
-                        :alt="'..'+img"
+                        :alt="img"
                     />
               </div>
             </CardComponent> 
