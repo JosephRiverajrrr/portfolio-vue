@@ -44,7 +44,7 @@ import TitleComponent from '../components/TitleComponent.vue';
             <CardComponent class="max-w-md mt-2 mx-0 w-full">
               <div class="flex gap-2 justify-between items-center">
               <p>JavaScript Frameworks</p>
-                <img src="/src/assets/vue.svg" alt="VUE" class="w-8 h-8">
+                <img src="https://images.seeklogo.com/logo-png/27/1/vue-js-logo-png_seeklogo-274070.png" alt="VUE" class="w-8 h-8">
                 <img src="https://img.icons8.com/color/256/react-native.png" alt="REACT" class="w-8 h-8">
                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NODEJS" class="w-8 h-8">
               </div>
