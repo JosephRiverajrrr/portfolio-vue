@@ -14,8 +14,8 @@ const projects = [
             'Generated sales summary reports to track business performance and revenue trends'
         ],
         stack: [
-            'https://images.seeklogo.com/logo-png/27/1/vue-js-logo-png_seeklogo-274070.png',
-            'https://www.gstatic.com/devrel-devsite/prod/ve08add287a6b4bdf8961ab8a1be50bf551be3816cdd70b7cc934114ff3ad5f10/firebase/images/lockup.svg'
+            '/images/vue.png',
+            '/images/firebase.png'
         ],
         images: [ 
              '/images/orangeCafe/orangeCafe1.png'
@@ -29,9 +29,9 @@ const projects = [
             'Built from scratch using: ReactJS, Firebase, MUI.'
         ],
         stack: [
-            'https://img.icons8.com/color/256/react-native.png',
-            'https://www.gstatic.com/devrel-devsite/prod/ve08add287a6b4bdf8961ab8a1be50bf551be3816cdd70b7cc934114ff3ad5f10/firebase/images/lockup.svg',
-            'https://img.icons8.com/color/452/material-ui.png'
+            '/images/react.png',
+            '/images/firebase.png',
+            '/images/materialui.png'
         ],
         images: [ 
            '/images/budget/budget1.png'
@@ -50,8 +50,8 @@ const projects = [
             'https://cdn-icons-png.flaticon.com/512/136/136528.png',
             'https://cdn-icons-png.flaticon.com/512/136/136527.png',
             'https://cdn-icons-png.flaticon.com/512/136/136530.png',
-            'https://cdn-icons-png.flaticon.com/512/5968/5968672.png',
-            'https://cdn-icons-png.flaticon.com/512/6785/6785635.png'
+            '/images/bootstrap.png',
+            '/images/php.png'
         ],
         images: [ 
              '/images/Robinson/Robinson1.png'
@@ -67,10 +67,10 @@ const projects = [
             'Focused on performance, usability, and a seamless experience for both buyers and administrators.'
         ],
         stack: [
-            'https://img.icons8.com/color/256/react-native.png',
-            'https://cdn-icons-png.flaticon.com/512/5968/5968322.png',
-            'https://cdn-icons-png.flaticon.com/512/5968/5968672.png',
-            'https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s1600/REST%2BAPI.png'
+            '/images/react.png',
+            '/images/nodejs.png',
+            '/images/bootstrap.png',
+            '/images/restfulapi.png'
         ],
         images: [ 
              '/images/zagana/zagana1.png'
@@ -86,10 +86,10 @@ const projects = [
             'Focused on performance, usability, and a seamless experience for both buyers and administrators.'
         ],
         stack: [
-            'https://img.icons8.com/color/256/react-native.png',
-            'https://cdn-icons-png.flaticon.com/512/5968/5968322.png',
-            'https://cdn-icons-png.flaticon.com/512/5968/5968672.png',
-            'https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s1600/REST%2BAPI.png'
+            '/images/react.png',
+            '/images/nodejs.png',
+            '/images/bootstrap.png',
+            '/images/restfulapi.png'
         ],
         images: [ 
              '/images/dailys/dailys2.png'

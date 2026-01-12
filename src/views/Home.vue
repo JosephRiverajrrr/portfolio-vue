@@ -44,18 +44,18 @@ import TitleComponent from '../components/TitleComponent.vue';
             <CardComponent class="max-w-md mt-2 mx-0 w-full">
               <div class="flex gap-2 justify-between items-center">
               <p>JavaScript Frameworks</p>
-                <img src="https://images.seeklogo.com/logo-png/27/1/vue-js-logo-png_seeklogo-274070.png" alt="VUE" class="w-8 h-8">
-                <img src="https://img.icons8.com/color/256/react-native.png" alt="REACT" class="w-8 h-8">
-                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NODEJS" class="w-8 h-8">
+                <img src="/images/vue.png" alt="VUE" class="w-8 h-8">
+                <img src="/images/react.png" alt="REACT" class="w-8 h-8">
+                <img src="/images/nodejs.png" alt="NODEJS" class="w-8 h-8">
               </div>
             </CardComponent>
 
             <CardComponent class="max-w-md mt-2 mx-0 w-full">
               <div class="flex gap-2  justify-between items-center">
               <p>UI Frameworks & Libraries</p>
-                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap" class="w-8 h-8"> 
-                <img src="https://code.dlang.org/packages/tailwind-d/logo?s=650228a573eaa51f8ceded68" alt="Tailwind" class="w-8 h-8"> 
-                <img src="https://img.icons8.com/color/452/material-ui.png" alt="Material UI" class="w-8 h-8"> 
+                <img src="/images/bootstrap.png" alt="Bootstrap" class="w-8 h-8"> 
+                <img src="/images/tailwind.png" alt="Tailwind" class="w-8 h-8"> 
+                <img src="/images/materialui.png" alt="Material UI" class="w-8 h-8"> 
               
               </div>
             </CardComponent>
@@ -63,17 +63,16 @@ import TitleComponent from '../components/TitleComponent.vue';
             <CardComponent class="max-w-md mt-2 mx-0 w-full">
               <div class="flex gap-2 items-center ">
               <p>Backend Frameworks</p>
-                <img src="https://cdn-icons-png.flaticon.com/512/6785/6785635.png" alt="Laravel" class="w-8 h-8 ml-4"> 
+                <img src="/images/php.png" alt="Laravel" class="w-8 h-8 ml-4"> 
                 Laravel
               </div>
             </CardComponent>
 
             <CardComponent class="max-w-md mt-2 mx-0 w-full">
-              <div class="flex gap-2  justify-between items-center">
-              <p>Data and Integration</p>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" class="w-8 h-8"> 
-                <img src="https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s1600/REST%2BAPI.png" alt="Restfult API" class="w-8 h-8"> 
-                <img src="https://dn721902.ca.archive.org/0/items/github.com-axios-axios_-_2021-05-07_16-44-30/cover.jpg" alt="Axios" class="w-8 h-8"> 
+              <div class="flex gap-2  justify-start items-center">
+              <p>Data and Integration</p> 
+                <img src="/images/restfulapi.png" alt="Restfult API" class="ml-4 w-8 h-8"> 
+                <img src="/images/axios.jpg" alt="Axios" class="w-8 h-8 ml-4"> 
               
               </div>
             </CardComponent>
